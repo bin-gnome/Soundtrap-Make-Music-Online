@@ -207,4 +207,4 @@ This repository serves as the official landing page for Soundtrap. The software 
 **Get the most recent version of Soundtrap today!**
 
 ---
-**Last updated:** 2026-11-11 10:36:17 UTC
+**Last updated:** 2026-11-11 18:30:18 UTC
